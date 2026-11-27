@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "date": "2026-11-27",
+    "name": "Avenue21 Beauty Salon & Spa",
+    "slug": "avenue21-beauty-abuja",
+    "city": "Abuja",
+    "niche": "beauty salon",
+    "whatsapp": "2349062021210",
+    "whatsapp_source": "Business's own TikTok (@avenue21beautysalon): 'Call or WhatsApp: 09062021210'; same number in Instagram bio",
+    "success_evidence": "Google Maps 4.2 stars from 243 reviews; about 180K Instagram followers, 3,899 posts",
+    "preview_url": "https://joebuildsthings.github.io/client-previews/avenue21-beauty-abuja/",
+    "status": "pitched_pending"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Nil's Cakes Abuja",
+    "slug": "nils-cakes-abuja",
+    "city": "Abuja",
+    "niche": "cakes and bakery",
+    "whatsapp": "2347046655000",
+    "whatsapp_source": "Instagram bio (@nilscakes_abuja): api.whatsapp.com/send?phone=2347046655000",
+    "success_evidence": "18K Instagram followers, 1,233 posts; also runs Nil's Bakery storefront at 2 Sakono St, Wuse 2",
+    "preview_url": "https://joebuildsthings.github.io/client-previews/nils-cakes-abuja/",
+    "status": "pitched_pending"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Koni's Treats",
+    "slug": "konis-treats-lagos",
+    "city": "Lagos",
+    "niche": "small chops",
+    "whatsapp": "2348022604722",
+    "whatsapp_source": "Business's own Threads post (@konis_treats): 'Order on WhatsApp 08022604722'; Instagram bio says 'chat whatsapp to order'",
+    "success_evidence": "11K Instagram followers, 1,377 posts; two branches (Egbeda and Shomolu)",
+    "preview_url": "https://joebuildsthings.github.io/client-previews/konis-treats-lagos/",
+    "status": "pitched_pending"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Nails by Gale",
+    "slug": "nails-by-gale-lagos",
+    "city": "Lagos",
+    "niche": "nail studio",
+    "whatsapp": "2347032369740",
+    "whatsapp_source": "Threads bio link (@nails.bygale): wa.me/2347032369740; Instagram bio says 'DM or WhatsApp to Book'",
+    "success_evidence": "13K Instagram followers, 876 posts; featured by Pulse Nigeria in a Lagos nail studio roundup",
+    "preview_url": "https://joebuildsthings.github.io/client-previews/nails-by-gale-lagos/",
+    "status": "pitched_pending"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Sharon Kitchenn",
+    "slug": "sharon-kitchenn-lagos",
+    "city": "Lagos",
+    "niche": "food trays and catering",
+    "whatsapp": "2348130134298",
+    "whatsapp_source": "Business's own Threads/X/TikTok posts: 'WhatsApp 08130134298 to order' (Threads post April 2026)",
+    "success_evidence": "About 137K Instagram followers, 3,531 posts; TikTok videos with 129K and 12K likes",
+    "preview_url": "https://joebuildsthings.github.io/client-previews/sharon-kitchenn-lagos/",
+    "status": "pitched_pending"
+  }
+]
