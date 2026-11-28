@@ -58,5 +58,27 @@
     "success_evidence": "About 137K Instagram followers, 3,531 posts; TikTok videos with 129K and 12K likes",
     "preview_url": "https://joe-previews.vercel.app/sharon-kitchenn-lagos/",
     "status": "pitched_pending"
+  },
+  {
+    "date": "2026-11-28",
+    "name": "GrillcityAbuja",
+    "city": "Abuja",
+    "niche": "grills and barbecue restaurant",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GrillcityAbuja%2C+ENL+Guzape%2C+FHA+housing+estate%2C+Guzape%2C+Abuja&query_place_id=ChIJPbU9uysLThARW63Q0pSYtNI",
+    "whatsapp": "2349036131199",
+    "whatsapp_source": "Business's own Linktree (linktr.ee/grillcityabuja): wa.me/2349036131199; own Threads post says click link in bio to chat on WhatsApp; same number on Google listing",
+    "success_evidence": "Google 3.9 stars from 409 reviews; featured by WakaAbuja as a go to barbecue spot; whole goat platters at N120k",
+    "status": "found"
+  },
+  {
+    "date": "2026-11-28",
+    "name": "Wealth Restaurant Ikeja",
+    "city": "Lagos",
+    "niche": "Chinese restaurant",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wealth+Restaurant+Ikeja%2C+7+Ola+Ayinde+St%2C+off+Toyin+Street%2C+Opebi%2C+Ikeja%2C+Lagos&query_place_id=ChIJ7wUs4-aTOxAR4hh4jVj8ZM0",
+    "whatsapp": "2348106227129",
+    "whatsapp_source": "Business's own Linktree (linktr.ee/Wealthrestaurant): wa.me/+2348106227129",
+    "success_evidence": "Google 4.2 stars from 58 reviews; attached to Wealth Hotel, hosts events like silent discos",
+    "status": "found"
   }
 ]
